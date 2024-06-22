@@ -12,7 +12,7 @@ This project contains a machine learning model designed to detect bank account f
 
 ## Dataset
 
-The dataset used for this project is CSE_student_performances.csv, which includes 1m entries and 32 features. The features are:
+The dataset used for this project is base.csv, which includes 1m entries and 32 features. The features are:
 
 **fraud_bool** - Fraud label (1 if fraud, 0 if legit)
 
