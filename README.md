@@ -70,7 +70,7 @@ You can install the required libraries using pip:
     
 1.Clone the repository:
     
-    git clone https://github.com/yourusername/bank-account-fraud-detection.git
+    git clone https://github.com/SuhrobSotiboldiev/fraud_detection_prediction.git
 
 2.Navigate to the project directory:
 
